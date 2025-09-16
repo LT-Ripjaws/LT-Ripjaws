@@ -18,12 +18,11 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Hi+there!+👾+🚀"> </p>
 <!-- Banner/Header -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Banner" width="50%" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Banner" width="750px" height = "350ox" />
 </p>
 
 
 ## About Me
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjY4MHVnOWg5azF3MDNnMTMyOTNlZ20zeG0ycXRtb2RjY2FjN2JzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b2ekm3w3fiPoJUDCH4/giphy.gif" />
 
 🎓 Currently studying at AMERICAN INTERNATIONAL UNIVERSITY BANGLADESH.
 
