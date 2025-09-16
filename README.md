@@ -1,16 +1,16 @@
-## Hi there 👋
+<!-- Banner/Header -->
+<p align="center">
+  <img src="https://tenor.com/view/mugen-jin-samurai-champloo-anime-gif-26908876" alt="Profile Banner" width="100%" />
+</p>
 
-<!--
-**LT-Ripjaws/LT-Ripjaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```ascii                                                                                     
+                                    ,,             ,,                                  
+`7MMF'   MMP""MM""YMM `7MM"""Mq.    db             db                                  
+  MM     P'   MM   `7   MM   `MM.                                                      
+  MM          MM        MM   ,M9  `7MM `7MMpdMAo.`7MM  ,6"Yb.`7M'    ,A    `MF',pP"Ybd 
+  MM          MM        MMmmdM9     MM   MM   `Wb  MM 8)   MM  VA   ,VAA   ,V  8I   `" 
+  MM      ,   MM mmmmm  MM  YM.     MM   MM    M8  MM  ,pm9MM   VA ,V  VA ,V   `YMMMa. 
+  MM     ,M   MM        MM   `Mb.   MM   MM   ,AP  MM 8M   MM    VVV    VVV    L.   I8 
+.JMMmmmmMMM .JMML.    .JMML. .JMM..JMML. MMbmmd'   MM `Moo9^Yo.   W      W     M9mmmP' 
+                                         MM     QO MP                                  
+                                       .JMML.   `bmP                                   
