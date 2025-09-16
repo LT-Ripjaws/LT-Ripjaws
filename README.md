@@ -1,6 +1,6 @@
 <!-- Banner/Header -->
 <p align="center">
-  <img src="https://tenor.com/view/mugen-jin-samurai-champloo-anime-gif-26908876" alt="Profile Banner" width="100%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3E1MWhuY28xc3ZvcHd5bGNndmZ6c284Y2U5NTQ0Y3BtdHNldHozZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iWQHPhv1CmuGu4brM5/giphy.gif" alt="Profile Banner" width="300px" height="300px"/>
 </p>
 
 ```ascii                                                                                     
