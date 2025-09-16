@@ -5,14 +5,16 @@
                         MM          MM        MM   ,M9  `7MM `7MMpdMAo.`7MM  ,6"Yb.`7M'    ,A    `MF',pP"Ybd 
                         MM          MM        MMmmdM9     MM   MM   `Wb  MM 8)   MM  VA   ,VAA   ,V  8I   `" 
                         MM      ,   MM mmmmm  MM  YM.     MM   MM    M8  MM  ,pm9MM   VA ,V  VA ,V   `YMMMa. 
-                        MM     ,M   MM        MM   `Mb.   MM   MM   ,AP  MM 8M   MM    VVV    VVV    L.   I8 
-                      .JMMmmmmMMM .JMML.    .JMML. .JMM..JMML. MMbmmd'   MM `Moo9^Yo.   W      W     M9mmmP' 
+                        MM     ,M   MM        MM   `Mb.   MM   MM   ,AP  MM 8M   MM    VVV    VVV    L.   I8  
+                      .JMMmmmmMMM .JMML.    .JMML. .JMM..JMML. MMbmmd'   MM `Moo9^Yo.   W      W     M9mmmP'  
                                                                MM     QO MP                                  
-                                                             .JMML.   `bmP                                   
+                                                             .JMML.   `bmP                                    
+                                                                                                                            
 ```
 **`Student at AIUB`** 
 
 ---
+<!-- welcome msg -->
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Hi+there!+👾+🚀"> </p>
 <!-- Banner/Header -->
 <p align="center">
@@ -21,6 +23,7 @@
 
 
 ## About Me
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjY4MHVnOWg5azF3MDNnMTMyOTNlZ20zeG0ycXRtb2RjY2FjN2JzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b2ekm3w3fiPoJUDCH4/giphy.gif" />
 
 🎓 Currently studying at AMERICAN INTERNATIONAL UNIVERSITY BANGLADESH.
 
@@ -33,6 +36,7 @@
 🧩 Fun fact: I debug faster when I have coffee ☕ and lo-fi beats 🎶.
 
 👌 Looking to collaborate!
+
 
 
 
@@ -93,21 +97,30 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LT-Ripjaws&show_icons=true&theme=radical&hide_border=true" height="180px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LT-Ripjaws&layout=compact&theme=radical&hide_border=true" height="180px"/> </p> <p align="center"></p>
 
 ## Connect with Me 🌐 
-<p align="center"> <a href="mailto:chinmoyguha676z@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+<p align="center"> 
+<!-- Gmail -->
+<a href="mailto:chinmoyguha676z@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>  
+<!-- Facebook -->
 <a href="https://facebook.com/chinmoy.guho.2025" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
+<!-- Discord -->
 <a href="https://discordapp.com/users/ripjaws0524" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>
+<!-- Youtube -->
 <a href="https://youtube.com/@LTRipjaws" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
+<!-- Twitter -->
 <a href="https://twitter.com/LT_Ripjaws" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" />
 </a>
 </p>
 
+<!-- Goodbye msg -->
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+👾;Drop+a+star+⭐+on+projects+you+like;Let's+build+something+awesome+together!+🚀"> </p>
 
 <p align="center">
