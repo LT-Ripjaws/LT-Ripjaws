@@ -50,44 +50,18 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="#">
-        <img src="#"
-             alt="Project1"
-             style="width:100%; height:200px; object-fit:cover;"/>
+    <td align="center" width="100%">
+      <a href="https://github.com/LT-Ripjaws/retrorides-car-showroom-website.git">
+        <img src="https://github.com/LT-Ripjaws/retrorides-car-showroom-website/blob/main/screenshots/landing-page.gif?raw=true"
+             alt="RetroRides Project"
+             style="width:100%; height:100%; object-fit:cover;"/> RetroRides
       </a>
       <br/>
-      <b></b><br/>
-      <sub></sub><br/>
-      🔗 <a href="#">Repo</a>
+      <b>A Vintage Car Shop</b><br/>
+      <sub> My First Academic website project. A Custom PHP MVC architecture, similar to laravel that provides classic car dealerships with tools to manage car collections, sales, and restoration services while offering customers a seamless way to explore, book, and connect.</sub><br/>
+      🔗 <a href="https://github.com/LT-Ripjaws/retrorides-car-showroom-website.git">Repo</a>
       <br/>
-      <sub>Tags: </sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="#">
-        <img src="#"
-             alt="Project2"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b></b><br/>
-      <sub></sub><br/>
-      🔗 <a href="#">Repo</a>
-      <br/>
-      <sub>Tags: </sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="#">
-        <img src="#"
-             alt="Project3"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b></b><br/>
-      <sub></sub><br/>
-      🔗 <a href="#">Repo</a>
-      <br/>
-      <sub>Tags: </sub>
+      <sub>Tags: Website, Vintage Cars, Php, MVC </sub>
     </td>
   </tr>
 </table>
