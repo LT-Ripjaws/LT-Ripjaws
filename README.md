@@ -49,9 +49,8 @@
     </td>
   </tr>
 
-  
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="100%">
       <a href="https://github.com/LT-Ripjaws/retrorides-car-showroom-website.git">
         <img src="https://github.com/LT-Ripjaws/retrorides-car-showroom-website/blob/main/screenshots/landing-page.gif?raw=true"
              alt="RetroRides Project"
@@ -64,7 +63,10 @@
       <br/>
       <sub>Tags: Website, Vintage Cars, Php, MVC </sub>
     </td>
-    <td align="center" width="50%">
+  </tr>
+
+  <tr>
+    <td align="center" width="100%">
       <a href="https://github.com/LT-Ripjaws/react-movie-app.git">
         <img src="https://github.com/LT-Ripjaws/react-movie-app/blob/main/screenshots/landing-page.gif?raw=true"
              alt="React Movie Discovery App"
@@ -78,9 +80,18 @@
       <sub>Tags: Website, React, Movie, TMDB </sub>
     </td>
   </tr>
-
-  
 </table>
+
+## Other Projects
+
+- **[Chronoscape](https://github.com/LT-Ripjaws/chronoscape-computer-graphics-project.git)** - A computer graphics project showcasing a transition of time.
+- **[SwiftMedaccess](https://github.com/LT-Ripjaws/swift-medaccess-cpp-project)** - The first ever university project created, using c++. A pharmacy app.
+- **[Convertify](https://github.com/LT-Ripjaws/convertify-csharp-project)** - A C# project to convert word and pdf files.
+- **[MyRegPlanner](https://github.com/LT-Ripjaws/MyRegPlanner-csharp-project)** - A C# project i made to help with the process of registering for courses in my University.
+- **[RetroRides C#](https://github.com/LT-Ripjaws/vintage-car-shop-csharp-project)** - A C# project of vintage cars shop. Did it as part of C# course work.
+- **[IMDB Data-Science](https://github.com/LT-Ripjaws/imdb-movie-data-science-project)** - A data-science and ML project done with the IMDB dataset, featuring data preprocessing, eda and some ML in R.
+- **[RESQ](https://github.com/LT-Ripjaws/resq-software-engineering)** - A project done in software engineering course to understand the complete SDLC process.
+
 
 ## Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LT-Ripjaws&show_icons=true&theme=radical&hide_border=true" height="180px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LT-Ripjaws&layout=compact&theme=radical&hide_border=true" height="180px"/> </p> <p align="center"></p>
