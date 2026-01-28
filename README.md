@@ -28,7 +28,7 @@
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=cpp,javascript,git,python,r,nodejs,ps,html,css,php,cs,java,react,kali&theme=light)](https://skillicons.dev)
 
-**Also comfortable with**: SQL , Networking and Security, Basic ML workflows.
+**Also comfortable with**: SQL , Networking and Security, ML/DL workflows.
 
 ## Projects - showcase
 
