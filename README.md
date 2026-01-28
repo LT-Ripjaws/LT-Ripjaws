@@ -35,6 +35,23 @@
 <table>
   <tr>
     <td align="center" width="100%">
+      <a href="https://github.com/LT-Ripjaws/spam-detection-with-stacking-classifier-machine-learning.git">
+        <img src="https://github.com/LT-Ripjaws/spam-detection-with-stacking-classifier-machine-learning/blob/main/screenshots/spam.jpg?raw=true"
+             alt="Spam detection project"
+             style="width:100%; height:100%; object-fit:cover;"/> SMS Spam detection with ML
+      </a>
+      <br/>
+      <b>A Spam detection with stacking ensemble model - Machine Learning</b><br/>
+      <sub> A sophisticated machine learning web application that detects spam messages using an ensemble stacking classifier. Built with FastAPI backend and a modern, responsive frontend</sub><br/>
+      🔗 <a href="https://github.com/LT-Ripjaws/spam-detection-with-stacking-classifier-machine-learning.git">Repo</a>
+      <br/>
+      <sub>Tags: Website, Machine Learning, Python, Spam </sub>
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td align="center" width="50%">
       <a href="https://github.com/LT-Ripjaws/retrorides-car-showroom-website.git">
         <img src="https://github.com/LT-Ripjaws/retrorides-car-showroom-website/blob/main/screenshots/landing-page.gif?raw=true"
              alt="RetroRides Project"
@@ -47,7 +64,22 @@
       <br/>
       <sub>Tags: Website, Vintage Cars, Php, MVC </sub>
     </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/LT-Ripjaws/react-movie-app.git">
+        <img src="https://github.com/LT-Ripjaws/react-movie-app/blob/main/screenshots/landing-page.gif?raw=true"
+             alt="React Movie Discovery App"
+             style="width:100%; height:100%; object-fit:cover;"/> React Movie App
+      </a>
+      <br/>
+      <b>A Popular Movie discovery app</b><br/>
+      <sub> A popular movie discovery mini-app i made while practicing ReactJs</sub><br/>
+      🔗 <a href="https://github.com/LT-Ripjaws/react-movie-app.git">Repo</a>
+      <br/>
+      <sub>Tags: Website, React, Movie, TMDB </sub>
+    </td>
   </tr>
+
+  
 </table>
 
 ## Stats
