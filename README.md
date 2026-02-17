@@ -26,7 +26,7 @@
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=cpp,javascript,git,python,r,nodejs,ps,html,css,php,cs,java,react,kali&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,javascript,typescript,git,python,r,tensorflow,nodejs,nestjs,laravel,ps,html,css,php,cs,java,react,nestjs,kali&theme=light)](https://skillicons.dev)
 
 **Also comfortable with**: SQL , Networking and Security, ML/DL workflows.
 
