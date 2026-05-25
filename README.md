@@ -35,6 +35,22 @@
 <table>
   <tr>
     <td align="center" width="100%">
+      <a href="https://github.com/LT-Ripjaws/github-ai-changelog">
+        <img src="https://github.com/LT-Ripjaws/github-ai-changelog/blob/main/screenshots/landing.jpg?raw=true"
+             alt="RepoNarrate AI changelog project"
+             style="width:100%; height:100%; object-fit:cover;"/> RepoNarrate
+      </a>
+      <br/>
+      <b>A GitHub AI changelog intelligence app</b><br/>
+      <sub> A full-stack AI changelog app that connects to GitHub repositories, syncs commits and releases, turns raw commit history into readable changelog notes, and presents them through search and analytics dashboards.</sub><br/>
+      🔗 <a href="https://github.com/LT-Ripjaws/github-ai-changelog">Repo</a>
+      <br/>
+      <sub>Tags: Website, AI, GitHub, Changelog, Next.js, NestJS </sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="100%">
       <a href="https://github.com/LT-Ripjaws/spam-detection-with-stacking-classifier-machine-learning.git">
         <img src="https://github.com/LT-Ripjaws/spam-detection-with-stacking-classifier-machine-learning/blob/main/screenshots/spam.jpg?raw=true"
              alt="Spam detection project"
