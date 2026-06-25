@@ -35,6 +35,22 @@
 <table>
   <tr>
     <td align="center" width="100%">
+      <a href="https://github.com/LT-Ripjaws/planner-agent-writer">
+        <img src="https://github.com/LT-Ripjaws/planner-agent-writer/blob/main/screenshots/landing_gif.gif?raw=true"
+             alt="BrewNarrate AI research-to-blog agent project"
+             style="width:100%; height:100%; object-fit:cover;"/> BrewNarrate
+      </a>
+      <br/>
+      <b>An AI research-to-blog writing agent</b><br/>
+      <sub> A single-user app that turns a topic into a fully-cited blog draft while streaming the agent's work in real time. A LangGraph pipeline handles research, planning, parallel section writing, citation verification, and quality grading with live progress updates.</sub><br/>
+      🔗 <a href="https://github.com/LT-Ripjaws/planner-agent-writer">Repo</a>
+      <br/>
+      <sub>Tags: Website, AI, Agent, LangGraph, FastAPI, Next.js </sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="100%">
       <a href="https://github.com/LT-Ripjaws/github-ai-changelog">
         <img src="https://github.com/LT-Ripjaws/github-ai-changelog/blob/main/screenshots/landing.jpg?raw=true"
              alt="RepoNarrate AI changelog project"
