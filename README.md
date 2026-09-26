@@ -1,160 +1,168 @@
-<!-- welcome msg -->
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Hi+there!+👾+🚀"> </p>
-<!-- Banner/Header -->
+<!-- Header: animated terminal banner (assets/banner-terminal.svg) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Banner" width="70%" height = "50%" />
+  <img src="assets/banner-terminal.svg" alt="Terminal: whoami prints Chinmoy Guha (@LT-Ripjaws); focus: full-stack web, AI agents, security research" width="100%" />
 </p>
 
+## About me
 
-## About Me
+I'm a Computer Science student at American International University-Bangladesh. I do
+research in AI and machine learning, and I build full-stack web apps and AI agents.
+I'm also working toward security research and penetration testing.
 
-🎓 Currently studying at AMERICAN INTERNATIONAL UNIVERSITY BANGLADESH.
+- **Researching:** how to use agentic AI properly in clinical decision support systems (CDSS).
+- **Learning:** how to secure AI agents in production.
+- **Open to:** security research and pentesting work, internships, AI engineering roles, collaboration, and freelance projects.
 
-💕 Passionate about ML/AI, Cybersecurity, and Web Development.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,50:1F6FEB,100:0D1117&section=header" alt="" width="100%" />
 
-🛠️ Focused on depth of expertise rather than just breadth.
-
-🌌 Always exploring the intersection of intelligence, security, and the web.
-
-🧩 Fun fact: I debug faster when I have coffee ☕ and lo-fi beats 🎶.
-
-👌 Looking to collaborate!
-
-
-
-
-## Skill stack
-<!-- Skill icons provided by skill-icons. Full icon list and names:
-     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=cpp,javascript,typescript,git,python,r,tensorflow,nodejs,nestjs,laravel,ps,html,css,php,cs,java,react,nextjs,kali,obsidian&theme=light)](https://skillicons.dev)
-
-**Also comfortable with**: SQL , Networking and Security, ML/DL workflows.
-
-## Projects - showcase
+## Tech stack
 
 <table>
   <tr>
-    <td align="center" width="100%">
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,ts,js,cpp,cs,java,php,r&theme=dark" alt="Python, TypeScript, JavaScript, C++, C#, Java, PHP, R" /></td>
+  </tr>
+  <tr>
+    <td><b>Web</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,nestjs,fastapi,laravel,html,css&theme=dark" alt="React, Next.js, Tailwind, Node.js, NestJS, FastAPI, Laravel, HTML, CSS" /></td>
+  </tr>
+  <tr>
+    <td><b>Data and AI</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,tensorflow,sklearn&theme=dark" alt="MongoDB, TensorFlow, scikit-learn" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,docker,kali,obsidian,ps&theme=dark" alt="Git, Docker, Kali Linux, Obsidian, Photoshop" /></td>
+  </tr>
+</table>
+
+Also: LangGraph and LangChain for AI agents, SQL, networking fundamentals, and machine learning workflows.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,50:1F6FEB,100:0D1117&section=header" alt="" width="100%" />
+
+## Featured projects
+
+<table>
+  <tr>
+    <td width="100%">
+      <a href="https://github.com/LT-Ripjaws/SentinelOps">
+        <img src="https://raw.githubusercontent.com/LT-Ripjaws/SentinelOps/main/screenshots/landing.gif" alt="SentinelOps landing page" width="100%" />
+      </a>
+      <h3><a href="https://github.com/LT-Ripjaws/SentinelOps">SentinelOps</a>: security incident management platform</h3>
+      A SOC-inspired app for tracking incidents from report to resolution: assignment, an append-only audit timeline, evidence uploads, role-based access, and an analytics dashboard. Authentication uses HTTP-only cookies with refresh-token rotation and CSRF protection.
+      <br /><br />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
       <a href="https://github.com/LT-Ripjaws/planner-agent-writer">
-        <img src="https://github.com/LT-Ripjaws/planner-agent-writer/blob/main/screenshots/landing_gif.gif?raw=true"
-             alt="BrewNarrate AI research-to-blog agent project"
-             style="width:100%; height:100%; object-fit:cover;"/> BrewNarrate
+        <img src="https://github.com/LT-Ripjaws/planner-agent-writer/blob/main/screenshots/landing_gif.gif?raw=true" alt="BrewNarrate app streaming an agent writing a blog post" width="100%" />
       </a>
-      <br/>
-      <b>An AI research-to-blog writing agent</b><br/>
-      <sub> A single-user app that turns a topic into a fully-cited blog draft while streaming the agent's work in real time. A LangGraph pipeline handles research, planning, parallel section writing, citation verification, and quality grading with live progress updates.</sub><br/>
-      🔗 <a href="https://github.com/LT-Ripjaws/planner-agent-writer">Repo</a>
-      <br/>
-      <sub>Tags: Website, AI, Agent, LangGraph, FastAPI, Next.js </sub>
+      <h3><a href="https://github.com/LT-Ripjaws/planner-agent-writer">BrewNarrate</a>: AI research-to-blog agent</h3>
+      Turns a topic into a fully cited blog draft and streams the agent's work live. A LangGraph pipeline researches, plans, writes sections in parallel, verifies citations, and grades the result.
+      <br /><br />
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     </td>
   </tr>
-
   <tr>
-    <td align="center" width="100%">
+    <td width="100%">
       <a href="https://github.com/LT-Ripjaws/github-ai-changelog">
-        <img src="https://github.com/LT-Ripjaws/github-ai-changelog/blob/main/screenshots/landing.jpg?raw=true"
-             alt="RepoNarrate AI changelog project"
-             style="width:100%; height:100%; object-fit:cover;"/> RepoNarrate
+        <img src="https://github.com/LT-Ripjaws/github-ai-changelog/blob/main/screenshots/landing.jpg?raw=true" alt="RepoNarrate landing page" width="100%" />
       </a>
-      <br/>
-      <b>A GitHub AI changelog intelligence app</b><br/>
-      <sub> A full-stack AI changelog app that connects to GitHub repositories, syncs commits and releases, turns raw commit history into readable changelog notes, and presents them through search and analytics dashboards.</sub><br/>
-      🔗 <a href="https://github.com/LT-Ripjaws/github-ai-changelog">Repo</a>
-      <br/>
-      <sub>Tags: Website, AI, GitHub, Changelog, Next.js, NestJS </sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="100%">
-      <a href="https://github.com/LT-Ripjaws/spam-detection-with-stacking-classifier-machine-learning.git">
-        <img src="https://github.com/LT-Ripjaws/spam-detection-with-stacking-classifier-machine-learning/blob/main/screenshots/spam.jpg?raw=true"
-             alt="Spam detection project"
-             style="width:100%; height:100%; object-fit:cover;"/> SMS Spam detection with ML
-      </a>
-      <br/>
-      <b>A Spam detection with stacking ensemble model - Machine Learning</b><br/>
-      <sub> A sophisticated machine learning web application that detects spam messages using an ensemble stacking classifier. Built with FastAPI backend and a modern, responsive frontend</sub><br/>
-      🔗 <a href="https://github.com/LT-Ripjaws/spam-detection-with-stacking-classifier-machine-learning.git">Repo</a>
-      <br/>
-      <sub>Tags: Website, Machine Learning, Python, Spam </sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="100%">
-      <a href="https://github.com/LT-Ripjaws/retrorides-car-showroom-website.git">
-        <img src="https://github.com/LT-Ripjaws/retrorides-car-showroom-website/blob/main/screenshots/landing-page.gif?raw=true"
-             alt="RetroRides Project"
-             style="width:100%; height:100%; object-fit:cover;"/> RetroRides
-      </a>
-      <br/>
-      <b>A Vintage Car Shop</b><br/>
-      <sub> My First Academic website project. A Custom PHP MVC architecture, similar to laravel that provides classic car dealerships with tools to manage car collections, sales, and restoration services while offering customers a seamless way to explore, book, and connect.</sub><br/>
-      🔗 <a href="https://github.com/LT-Ripjaws/retrorides-car-showroom-website.git">Repo</a>
-      <br/>
-      <sub>Tags: Website, Vintage Cars, Php, MVC </sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="100%">
-      <a href="https://github.com/LT-Ripjaws/react-movie-app.git">
-        <img src="https://github.com/LT-Ripjaws/react-movie-app/blob/main/screenshots/landing-page.gif?raw=true"
-             alt="React Movie Discovery App"
-             style="width:100%; height:100%; object-fit:cover;"/> React Movie App
-      </a>
-      <br/>
-      <b>A Popular Movie discovery app</b><br/>
-      <sub> A popular movie discovery mini-app i made while practicing ReactJs</sub><br/>
-      🔗 <a href="https://github.com/LT-Ripjaws/react-movie-app.git">Repo</a>
-      <br/>
-      <sub>Tags: Website, React, Movie, TMDB </sub>
+      <h3><a href="https://github.com/LT-Ripjaws/github-ai-changelog">RepoNarrate</a>: AI changelogs from GitHub history</h3>
+      Connects to GitHub repositories, syncs commits and releases, turns raw commit history into readable changelog notes, and presents them with search and analytics dashboards.
+      <br /><br />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub API" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     </td>
   </tr>
 </table>
 
-## Other Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,50:1F6FEB,100:0D1117&section=header" alt="" width="100%" />
 
-- **[Chronoscape](https://github.com/LT-Ripjaws/chronoscape-computer-graphics-project.git)** - A computer graphics project showcasing a transition of time.
-- **[SwiftMedaccess](https://github.com/LT-Ripjaws/swift-medaccess-cpp-project)** - The first ever university project created, using c++. A pharmacy app.
-- **[Convertify](https://github.com/LT-Ripjaws/convertify-csharp-project)** - A C# project to convert word and pdf files.
-- **[MyRegPlanner](https://github.com/LT-Ripjaws/MyRegPlanner-csharp-project)** - A C# project i made to help with the process of registering for courses in my University.
-- **[RetroRides C#](https://github.com/LT-Ripjaws/vintage-car-shop-csharp-project)** - A C# project of vintage cars shop. Did it as part of C# course work.
-- **[IMDB Data-Science](https://github.com/LT-Ripjaws/imdb-movie-data-science-project)** - A data-science and ML project done with the IMDB dataset, featuring data preprocessing, eda and some ML in R.
-- **[RESQ](https://github.com/LT-Ripjaws/resq-software-engineering)** - A project done in software engineering course to understand the complete SDLC process.
+## More projects
 
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/LT-Ripjaws/spam-detection-with-stacking-classifier-machine-learning">
+        <img src="https://github.com/LT-Ripjaws/spam-detection-with-stacking-classifier-machine-learning/blob/main/screenshots/spam.jpg?raw=true" alt="SMS spam detection app" width="100%" />
+      </a>
+      <b><a href="https://github.com/LT-Ripjaws/spam-detection-with-stacking-classifier-machine-learning">SMS Spam Detection</a></b><br />
+      <sub>Detects spam messages with a stacking ensemble classifier, served through a FastAPI web app.</sub><br />
+      <sub><b>Python · scikit-learn · FastAPI</b></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/LT-Ripjaws/retrorides-car-showroom-website">
+        <img src="https://github.com/LT-Ripjaws/retrorides-car-showroom-website/blob/main/screenshots/landing-page.gif?raw=true" alt="RetroRides vintage car showroom website" width="100%" />
+      </a>
+      <b><a href="https://github.com/LT-Ripjaws/retrorides-car-showroom-website">RetroRides</a></b><br />
+      <sub>A vintage car showroom site on a custom PHP MVC framework: collections, sales, bookings, and restoration services.</sub><br />
+      <sub><b>PHP · MVC · MySQL</b></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/LT-Ripjaws/react-movie-app">
+        <img src="https://github.com/LT-Ripjaws/react-movie-app/blob/main/screenshots/landing-page.gif?raw=true" alt="React movie discovery app" width="100%" />
+      </a>
+      <b><a href="https://github.com/LT-Ripjaws/react-movie-app">React Movie App</a></b><br />
+      <sub>A movie discovery app built on the TMDB API while practising React.</sub><br />
+      <sub><b>React · TMDB API</b></sub>
+    </td>
+  </tr>
+</table>
 
-## Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LT-Ripjaws&show_icons=true&theme=radical&hide_border=true" height="180px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LT-Ripjaws&layout=compact&theme=radical&hide_border=true" height="180px"/> </p> <p align="center"></p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,50:1F6FEB,100:0D1117&section=header" alt="" width="100%" />
 
-## Connect with Me 🌐 
-<p align="center"> 
-<!-- Gmail -->
-<a href="mailto:chinmoyguha676z@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>  
-<!-- Facebook -->
-<a href="https://facebook.com/chinmoy.guho.2025" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<!-- Discord -->
-<a href="https://discordapp.com/users/ripjaws0524" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<!-- Youtube -->
-<a href="https://youtube.com/@LTRipjaws" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<!-- Twitter -->
-<a href="https://twitter.com/LT_Ripjaws" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" />
-</a>
-</p>
+## Other projects
 
-<!-- Goodbye msg -->
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+👾;Drop+a+star+⭐+on+projects+you+like;Let's+build+something+awesome+together!+🚀"> </p>
+| Project | What it is | Stack |
+|---|---|---|
+| [easy-langgraph](https://github.com/LT-Ripjaws/easy-langgraph) | A beginner LangGraph tutorial in 24 lessons, each with a guide and a notebook: workflows, streaming, persistence, memory, tools, multi-agent systems, RAG, and deployment. | Python, LangGraph |
+| [data-structures-and-algorithms](https://github.com/LT-Ripjaws/data-structures-and-algorithms) | 46 standalone, tested C++ programs across 14 topics, from linked lists and heaps to Dijkstra and dynamic programming. | C++ |
+| [Cairnveil Security Agent](https://github.com/LT-Ripjaws/carnveil-security-self-rag) | A Self-RAG workflow that answers questions from a fictional security company's internal documents: it decides when to retrieve, grades the retrieved chunks, checks that the answer is supported, and rewrites the query when needed. | Python, LangGraph, FAISS |
+| [web-pentest-lab](https://github.com/LT-Ripjaws/web-pentest-lab) | A simulated web application security assessment against OWASP Juice Shop, written up as a pentest report. | Web security, OWASP |
+| [Twinflare](https://github.com/LT-Ripjaws/hci-project) | A tangible-interface game for an HCI course: two handheld rockets with tilt sensors control a two-player browser game through an Arduino. | JavaScript, Arduino |
+| [Chronoscape](https://github.com/LT-Ripjaws/chronoscape-computer-graphics-project) | A computer graphics scene showing a day-night transition over time. | C++, OpenGL |
+| [SwiftMedAccess](https://github.com/LT-Ripjaws/swift-medaccess-cpp-project) | My first university project: a pharmacy management console app. | C++ |
+| [Convertify](https://github.com/LT-Ripjaws/convertify-csharp-project) | A desktop app that converts between Word and PDF files. | C# |
+| [MyRegPlanner](https://github.com/LT-Ripjaws/MyRegPlanner-csharp-project) | A planner for my university's course registration. | C# |
+| [RetroRides C#](https://github.com/LT-Ripjaws/vintage-car-shop-csharp-project) | A vintage car shop desktop app from C# coursework. | C# |
+| [IMDB Data Science](https://github.com/LT-Ripjaws/imdb-movie-data-science-project) | Preprocessing, exploratory analysis, and machine learning on the IMDB dataset. | R |
+| [RESQ](https://github.com/LT-Ripjaws/resq-software-engineering) | Full software development lifecycle documentation from a software engineering course. | SDLC |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,50:1F6FEB,100:0D1117&section=header" alt="" width="100%" />
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LT-Ripjaws/LT-Ripjaws/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LT-Ripjaws/LT-Ripjaws/output/github-snake.svg" />
+  <img alt="Snake eating the LT-Ripjaws contribution graph" src="https://raw.githubusercontent.com/LT-Ripjaws/LT-Ripjaws/output/github-snake.svg" width="100%" />
+</picture>
 
 <p align="center">
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="30%">
+  <img src="https://streak-stats.demolab.com?user=LT-Ripjaws&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for LT-Ripjaws" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,50:1F6FEB,100:0D1117&section=header" alt="" width="100%" />
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ripjaws676x"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:chinmoyguha676z@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://discordapp.com/users/ripjaws0524"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://youtube.com/@LTRipjaws"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://twitter.com/LT_Ripjaws"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
+
+<p align="center"><sub>Thanks for visiting. If a project is useful to you, a star helps others find it.</sub></p>
